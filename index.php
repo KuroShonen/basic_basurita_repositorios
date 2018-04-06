@@ -193,6 +193,17 @@ a {
 <?php 
 	echo date('Y-m-d H:i:s');
 ?>
+<style type="text/css">
+	.borralo{
+		width: 500px;
+		height: 500px;
+		margin: 0 auto;
+		background-color: black;
+	}
+</style>
+<div class="borralo">
+	
+</div>
 
 <br><br>
 <input id="slider" type="range" name="slider" min="0" max="100" value="0">
